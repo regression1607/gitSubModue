@@ -1,0 +1,3 @@
+[submodule "codingQuestions"]
+	path = codingQuestions
+	url = https://github.com/regression1607/codingQuestions.git
